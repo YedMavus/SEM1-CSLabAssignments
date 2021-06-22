@@ -3,7 +3,7 @@ int main()
 {
     int A[20],i,n;
 
-    printf("Enter array dimention:");
+    printf("Enter array dimention:" );
     scanf("%i",&n);
     printf("\nEnter the numbers:");
     for(i = 0; i<n; i++)
